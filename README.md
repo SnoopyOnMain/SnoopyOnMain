@@ -21,7 +21,7 @@
 ## Education
 
 **MSc. in Computing (Artificial Intelligence)**, *Dublin City University, Ireland* <br>
-*Sep 2024 – Sep 2026*
+*2024 – 2026*
 
 **BE in Artificial Intelligence and Machine Learning**, *BMSIT, Bengaluru, India* <br>
 *2019 – 2023*
