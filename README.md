@@ -2,8 +2,7 @@
 
 # Janavi Ravi
 
-### 
-Machine Learning Engineer | MSc Computing (Artificial Intelligence) @ DCU | B.E. Artificial Intelligence and Machine Learning @ BMSIT&M
+### Machine Learning Engineer | MSc Computing (Artificial Intelligence) @ DCU 
 
 </div>
 
@@ -16,6 +15,16 @@ Machine Learning Engineer | MSc Computing (Artificial Intelligence) @ DCU | B.E.
 * **Enterprise Experience:** Background in cross-functional agile environments, building secure application layers, and delivering comprehensive technical system architecture documentation to align product, R&D, and engineering teams.
 * **Technical Breadth:** Strong foundation in classic ML frameworks (scikit-learn, XGBoost), deep learning (PyTorch, TensorFlow), relational architectures (PostgreSQL/SQL), and modular software development.
 * **Location:** Dublin, Ireland (Open to local and hybrid enterprise opportunities).
+
+---
+
+## Education
+
+**MSc. in Computing (Artificial Intelligence)**, *Dublin City University, Ireland* <br>
+*Sep 2024 – Sep 2026*
+
+**BE in Artificial Intelligence and Machine Learning**, *BMSIT, Bengaluru, India* <br>
+*2019 – 2023*
 
 ---
 
