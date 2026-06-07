@@ -11,10 +11,11 @@ Machine Learning Engineer | MSc Computing (Artificial Intelligence) @ DCU | B.E.
 
 ## About Me
 
-* **Objective:** Seeking a Machine Learning Engineer (MLE) or data architecture role focused on building, optimizing, and deploying practical production-grade models.
-* **Core Focus:** Working with classic machine learning pipelines (regression, tree-based models, clustering), deep learning architectures, and automated data workflows.
-* **Professional Background:** More than 1 year of software engineering and technical documentation experience at SignDesk.
-* **Location:** Dublin, Ireland.
+* **Professional Focus:** Machine Learning Engineer specializing in the design, optimization, and deployment of production-grade models and automated data workflows. 
+* **Core Capabilities:** Bridging statistical modeling with robust software engineering practices. Experienced in implementing end-to-end ML pipelines—spanning data cleaning, feature engineering, multicollinearity pruning, and localized geospatial clustering algorithms.
+* **Enterprise Experience:** Background in cross-functional agile environments, building secure application layers, and delivering comprehensive technical system architecture documentation to align product, R&D, and engineering teams.
+* **Technical Breadth:** Strong foundation in classic ML frameworks (scikit-learn, XGBoost), deep learning (PyTorch, TensorFlow), relational architectures (PostgreSQL/SQL), and modular software development.
+* **Location:** Dublin, Ireland (Open to local and hybrid enterprise opportunities).
 
 ---
 
