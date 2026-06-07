@@ -7,7 +7,6 @@ MSc Computing (Artificial Intelligence) @ DCU
 B.E. Artificial Intelligence and Machine Learning @ BMSIT&M
 
 </div>
----
 
 ## About Me
 
