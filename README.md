@@ -2,19 +2,14 @@
 
 # Janavi Ravi
 
-### Machine Learning Engineer | MSc Computing (Artificial Intelligence) @ DCU | B.E. Artificial Intelligence and Machine Learning @ BMSIT&M
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=SnoopyOnMain&label=Profile%20views&color=0e76a8&style=flat-square" alt="Profile Views" />
-
-</div>
+### Machine Learning Engineer
+MSc Computing (Artificial Intelligence) @ DCU 
+B.E. Artificial Intelligence and Machine Learning @ BMSIT&M
 
 ---
 
 ## About Me
 
-* **Education:** MSc in Computing (Artificial Intelligence) at Dublin City University (Graduating September 2026).
 * **Objective:** Seeking a Machine Learning Engineer (MLE) or data architecture role focused on building, optimizing, and deploying practical production-grade models.
 * **Core Focus:** Working with classic machine learning pipelines (regression, tree-based models, clustering), deep learning architectures, and automated data workflows.
 * **Professional Background:** More than 1 year of software engineering and technical documentation experience at SignDesk.
@@ -81,9 +76,9 @@
 
 ---
 
-## Connect with Me
-
 <div align="center">
+  
+## Connect with Me
 
 <a href="https://linkedin.com/in/janaviravi1273">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
