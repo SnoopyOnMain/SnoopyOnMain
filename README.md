@@ -3,11 +3,13 @@
 # Janavi Ravi
 
 ### 
-* Machine Learning Engineer
-* MSc Computing (Artificial Intelligence) @ DCU 
-* B.E. Artificial Intelligence and Machine Learning @ BMSIT&M
+Machine Learning Engineer
+MSc Computing (Artificial Intelligence) @ DCU 
+B.E. Artificial Intelligence and Machine Learning @ BMSIT&M
 
 </div>
+
+---
 
 ## About Me
 
