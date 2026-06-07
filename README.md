@@ -1,24 +1,14 @@
+<div align="center">
+
 # Janavi Ravi
 
-### Machine Learning Engineer | MSc Computing (Artificial Intelligence) @ DCU
+### Machine Learning Engineer | MSc Computing (Artificial Intelligence) @ DCU | B.E. Artificial Intelligence and Machine Learning @ BMSIT&M
 
----
+<br><br>
 
-<p align="center">
-  <a href="https://linkedin.com/in/janaviravi1273">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/SnoopyOnMain">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:janavi.4business@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=SnoopyOnMain&label=Profile%20views&color=0e76a8&style=flat-square" alt="Profile Views" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SnoopyOnMain&label=Profile%20views&color=0e76a8&style=flat-square" alt="Profile Views" />
-</p>
+</div>
 
 ---
 
@@ -93,5 +83,13 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janaviravi1273)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janavi.4business@gmail.com)
+<div align="center">
+
+<a href="https://linkedin.com/in/janaviravi1273">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:janavi.4business@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
